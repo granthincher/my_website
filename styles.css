@@ -1,0 +1,168 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #0c1b4c;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+section {
+    padding: 1rem;
+    margin: 1rem auto;
+    background: #fff;
+    max-width: 1000px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #0c1b4c;
+    color: #fff;
+}
+
+.nav-buttons {
+    margin-top: 1rem;
+}
+
+.nav-buttons button {
+    margin: 0 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #555;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.nav-buttons button:hover {
+    background-color: #777;
+}
+
+section {
+    display: none;
+}
+
+.about-img {
+    float: left;
+    margin: 0 1.5rem 1.5rem 0;
+    width: 250px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .proc-img {
+    display: block;
+    float: none;
+    margin: 0 auto;
+    width: 800px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .amp-img {
+    display: block;
+    float: none;
+    margin: 0 auto;
+    width: 800px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .amp_specs-img {
+    display: block;
+    float: none;
+    margin: 0 auto;
+    width: 600px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .cad1-img {
+    display: block;
+    float: none;
+    margin: 1rem auto;
+    width: 600px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .cad2-img {
+    display: block;
+    float: none;
+    margin: 1rem auto;
+    width: 600px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .cycleguard-img {
+    display: block;
+    float: none;
+    margin: 1rem auto;
+    width: 700px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .pcb1-img {
+    display: block;
+    float: none;
+    margin: 1rem auto;
+    width: 700px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .pcb2-img {
+    display: block;
+    float: none;
+    margin: 1rem auto;
+    width: 700px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .vitals-img {
+    display: block;
+    float: none;
+    margin: 1rem auto;
+    width: 500px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .home_entry-img {
+    display: block;
+    float: none;
+    margin: 1rem auto;
+    width: 800px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  
+  .download-button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #0077cc;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  .download-button:hover {
+    background-color: #005fa3;
+  }
